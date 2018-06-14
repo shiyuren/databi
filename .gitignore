@@ -1,0 +1,12 @@
+.idea
+.classpath
+.project
+*.iml
+*.eml
+target
+*.log
+*.log.*
+*.cache
+*.lock
+/build/
+*.settings
